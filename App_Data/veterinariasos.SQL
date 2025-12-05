@@ -54,6 +54,7 @@ CREATE TABLE [VT_MASCOTAS]
  [MAS_FECHA_MODIFICACION] Datetime NULL
 )
 go
+--hola
 
 -- Add keys for table VT_MASCOTAS
 
